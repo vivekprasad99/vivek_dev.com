@@ -5,10 +5,10 @@
         "namespace": "android_app",
         "package_name": "com.example.deep_linking_flutter",
         "sha256_cert_fingerprints": [
-          "B6:1A:ED:53:15:E4:0E:43:B9:24:C0:22:35:5D:32:D0:BB:6B:84:9E:96:08:E2:CE:C6:FB:BF:4D:A2:73:B7:AB"
+          "B6:1A:ED:53:15:E4:0E:43:B9:24:C0:22:35:5D:32:D0:BB:6B:84:9E:96:08:E2:CE:C6:FB:BF:4D:A2:73:B7:AB",
+          "8D:0E:E7:CD:96:A7:78:E5:8A:D2:70:E4:0D:5B:40:DC:8D:A1:84:82:DA:AB:6A:32:70:0E:35:FA:7F:62:6A:C5"
         ]
       }
     }
   ]
-
   
